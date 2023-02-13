@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/wmh_seg/unet_yale_ich/2/model_out/model_72/model_72-72"
+all_model_checkpoint_paths: "/data/wmh_seg/unet_yale_ich/2/model_out/model_72/model_72-72"
