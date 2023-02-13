@@ -1,0 +1,12 @@
+[Train]
+
+[Test]
+
+ERICH02_365978_02172011_1351_BL_normalized
+ERICH02_365978_02182011_1545_24_normalized
+ERICH02_365992_06232011_1533_BL_normalized
+ERICH02_365992_06242011_2006_24_normalized
+
+[Monitoring]
+
+[End]
